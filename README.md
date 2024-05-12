@@ -1,9 +1,6 @@
 # beamer2ppt
 Python script converting LaTeX beamer in `.pdf` file to `.ppt` or `.pptx` file, without losing formulae formatting.
 
-## Implementation principle
-pdf &rarr; img &rarr; insert into ppt &rarr; align &rarr; export
-
 ## Prereq.
 - python `2.7`+ installed
 - python package [`PyMuPDF`](https://pymupdf.readthedocs.io/en/latest/) installed
